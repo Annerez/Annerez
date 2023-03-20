@@ -6,6 +6,10 @@
 
 - Might remake this profile later
 
+- An IoT enthusiast, Web Developer, a rookie AI trainer
+
+- Feel Free to contact me via Discord for games, tech, whatever you want
+
 - 👨‍💻 All of my projects are available at [annerez.github.io](annerez.github.io)
 
 - 📫 How to reach me **aruchakhem@gmail.com**
@@ -23,3 +27,22 @@
 ![](https://github-readme-stats.vercel.app/api?username=Annerez&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Annerez&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br />
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=Anner&langs_count=8&layout=compact&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa)
+
+# More about me
+Well I have many interests, you can skip this part as there are many cringe ahead
+
+<h2> Game </h2>
+I like variety of games. I have no favourite genre but mostly stick with Open World and Grand Strategy. Here are some list of game I really like.
+ - Guilty Gear, a fighting game franchise with unique 2.5D art style and gameplay. I REALLY, really recommend you to listen to the game SOUNDTRACK especially if you love heavy metal.
+ - Doom, nothing to say more I guess.
+ - Fallout, an action-RPG open world game franchise that I really recommend you to play especially New Vegas. The story are enjoyable and the gameplay is very fun.
+ - Hearts of Iron IV, RTS Grand Strategy game. If you like planning and micromanaging you will love this game plus there are tons of fasinating mods out there.
+ - 
+<h2> Anime </h2>
+I don't watch much anime and very picky when choosing a show to watch lol. anyways these are some of my favourites.
+Cowboy Bebop, Serial Experiment Lain, Full MetalAlchemist, Azumanga Daioh, Nichijou, Bocchi the rock, etc.
+
+<h2> Music </h2>
+I discover new song everyday and have listened to thousand of songs.
+While there are tons of genre my favourite ones are Classical, Jazz, Pop-rock, Rock n' Roll, Nu-metal, Power metal and Heavy metal.
+I'm not gonna write the favourite bands/songs or there will be hundred of list lol.
