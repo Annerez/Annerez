@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Information Technology student @KMITL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annerez&label=Profile%20views&color=0e75b6&style=flat" alt="annerez" /> </p>
-<p align="center"> <img src="https://wakatime.com/badge/user/5def2b97-aeb5-4e19-a731-8b627c7f59a6.svg" alt="annerez" /> </p>
+<p align="left"> <img src="https://wakatime.com/badge/user/5def2b97-aeb5-4e19-a731-8b627c7f59a6.svg" alt="annerez" /> </p>
 
 - 👨‍💻 All of my projects are available at [annerez.github.io](annerez.github.io)
 
