@@ -33,8 +33,13 @@
 <img style="height: auto; width: 35%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annerez&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /></div>
 </div> <br />
 
-[![arkhemat's 42 stats](https://badge42.vercel.app/api/v2/clhivihum005908juawcct1py/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+<div align="center">
+ 
+<a href="https://badge42.vercel.app/">
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhivihum005908juawcct1py/stats?cursusId=9&coalitionId=piscine" alt="arkhemat's 42 stats" /></a>
+</a>
 
+</div>
 
 # More about me
 Well I have many interests, you can skip this part as there are many cringe ahead (pretty npc tbh)
