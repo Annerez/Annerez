@@ -32,10 +32,10 @@
 <img style="height: auto; width: 35%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annerez&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /></div>
 </div> <br />
 
-| [![viruskizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=viruskizz&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=nightowl)](https://github.com/viruskizz?tab=repositories) | [![viruskizz's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viruskizz&layout=compact&hide_border=true&theme=nightowl)](https://github.com/viruskizz?tab=repositories) |
-|:-:|:-:|
+<a href="https://github.com/oakoudad/badge42">
+	<img src="https://badge.mediaplus.ma/colorfulwaves/arkhemat?1337Badge=off&UM6P=off" alt="arkhemat's 42 stats" />
+</a>
 
-[![arkhemat's 42 stats](https://badge.mediaplus.ma/colorfulwaves/arkhemat)](https://github.com/oakoudad/badge42)
 
 # More about me
 Well I have many interests, you can skip this part as there are many cringe ahead (pretty npc tbh)
