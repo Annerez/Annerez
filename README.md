@@ -28,8 +28,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Annerez&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br />
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=Anner&langs_count=8&layout=compact&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa)
 
+[![arkhemat's 42 stats](https://badge.mediaplus.ma/Kettlebells/arkhemat)](https://github.com/oakoudad/badge42)
+
 # More about me
-Well I have many interests, you can skip this part as there are many cringe ahead
+Well I have many interests, you can skip this part as there are many cringe ahead (pretty npc tbh)
 
 <h2> Game </h2>
 I like variety of games. I have no favourite genre but mostly stick with Open World and Grand Strategy. Here are some list of game I really like.
