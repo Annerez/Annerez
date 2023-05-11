@@ -25,6 +25,13 @@
 # 📈 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Annerez&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=Annerez&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br />
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annerez&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=anner&langs_count=8&layout=compact&hide_border=true&bg_color=141424&title_color=e73f82&text_color=ffffff&icon_color=fdaaaa" /></div>
+</div>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Annerez&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 [![Anner's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anner&langs_count=8&layout=compact&hide_border=true&bg_color=141424&title_color=e73f82&text_color=ffffff&icon_color=fdaaaa )](https://github.com/anuraghazra/github-readme-stats)<br />
 
