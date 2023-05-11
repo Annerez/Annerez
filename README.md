@@ -34,10 +34,8 @@
 </div> <br />
 
 <div align="center">
- 
-<a href="https://badge42.vercel.app/">
+
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhivihum005908juawcct1py/stats?cursusId=9&coalitionId=piscine" alt="arkhemat's 42 stats" /></a>
-</a>
 
 </div>
 
