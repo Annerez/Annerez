@@ -32,6 +32,7 @@
 
 # More about me
 Well I have many interests, you can skip this part as there are many cringe ahead (pretty npc tbh)
+also a Cinephile btw
 
 <h2> Game </h2>
 I like variety of games. I have no favourite genre but mostly stick with Open World and Grand Strategy. Here are some list of game I really like.
@@ -42,7 +43,7 @@ I like variety of games. I have no favourite genre but mostly stick with Open Wo
   
 <h2> Anime </h2>
 I don't watch much anime and very picky when choosing a show to watch lol. anyways these are some of my favourites. <br />
-Cowboy Bebop, Serial Experiment Lain, Full MetalAlchemist, Azumanga Daioh, Nichijou, Bocchi the rock, etc.
+Cowboy Bebop, Serial Experiment Lain, Full MetalAlchemist, Azumanga Daioh, Nichijou, Perfect Blue, etc.
 
 <h2> Music </h2>
 I discover new song everyday and have listened to thousand of songs. <br />
