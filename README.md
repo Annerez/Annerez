@@ -25,6 +25,7 @@
 # 📈 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Annerez&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=Annerez&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br />
+
 <div class='container'>
 <img style="height: auto; width: 60%;" class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=anner&langs_count=8&layout=compact&hide_border=true&bg_color=141424&title_color=e73f82&text_color=ffffff&icon_color=fdaaaas" />
 &nbsp;
@@ -32,9 +33,7 @@
 <img style="height: auto; width: 35%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annerez&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /></div>
 </div> <br />
 
-<a href="https://github.com/oakoudad/badge42">
-	<img src="https://badge.mediaplus.ma/colorfulwaves/arkhemat?1337Badge=off&UM6P=off" alt="arkhemat's 42 stats" />
-</a>
+[![arkhemat's 42 stats](https://badge42.vercel.app/api/v2/clhivihum005908juawcct1py/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
 
 # More about me
