@@ -25,7 +25,7 @@
 # 📈 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Annerez&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=Annerez&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br />
-<div style="display: flex; flex-direction: row;">
+<div style="align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annerez&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </div> <br />
 
