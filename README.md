@@ -32,7 +32,7 @@
 <img style="height: auto; width: 35%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annerez&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /></div>
 </div> <br />
 
-| [![viruskizz's GitHub stats](github-readme-stats.vercel.app/api/wakatime?username=anner&langs_count=8&layout=compact&hide_border=true&bg_color=141424&title_color=e73f82&text_color=ffffff&icon_color=fdaaaas)](https://github.com/viruskizz?tab=repositories) | [![viruskizz's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Annerez&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)] |
+| [![viruskizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=viruskizz&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=nightowl)](https://github.com/viruskizz?tab=repositories) | [![viruskizz's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viruskizz&layout=compact&hide_border=true&theme=nightowl)](https://github.com/viruskizz?tab=repositories) |
 |:-:|:-:|
 
 [![arkhemat's 42 stats](https://badge.mediaplus.ma/colorfulwaves/arkhemat)](https://github.com/oakoudad/badge42)
