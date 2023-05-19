@@ -27,10 +27,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Annerez&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br />
 
 <div class='container'>
-<img style="height: auto; width: 60%;" class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=anner&langs_count=8&layout=compact&hide_border=true&bg_color=141424&title_color=e73f82&text_color=ffffff&icon_color=fdaaaas" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 35%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annerez&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /></div>
+<img style="height: auto; width: 80%;" class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=anner&langs_count=8&layout=compact&hide_border=true&bg_color=141424&title_color=e73f82&text_color=ffffff&icon_color=fdaaaas" />
 </div> <br />
 
 <div align="center">
