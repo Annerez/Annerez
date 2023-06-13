@@ -36,22 +36,3 @@
 
 </div>
 
-# More about me
-Well I have many interests, you can skip this part as there are many cringe ahead (pretty npc tbh)
-also a Cinephile btw
-
-<h2> Game </h2>
-I like variety of games. I have no favourite genre but mostly stick with Open World and Grand Strategy. Here are some list of game I really like.
-- Guilty Gear, a fighting game franchise with unique 2.5D art style and gameplay. I REALLY, really recommend you to listen to the game SOUNDTRACK especially if you love heavy metal.
-- Doom, nothing to say more I guess.
-- Fallout, an action-RPG open world game franchise that I really recommend you to play especially New Vegas. The story are enjoyable and the gameplay is very fun.
-- Hearts of Iron IV, RTS Grand Strategy game. If you like planning and micromanaging you will love this game plus there are tons of fasinating mods out there.
-  
-<h2> Anime </h2>
-I don't watch much anime and very picky when choosing a show to watch lol. anyways these are some of my favourites. <br />
-Cowboy Bebop, Serial Experiment Lain, Full MetalAlchemist, Azumanga Daioh, Nichijou, Perfect Blue, etc.
-
-<h2> Music </h2>
-I discover new song everyday and have listened to thousand of songs. <br />
-While there are tons of genre my favourite ones are Classical, Jazz, Pop-rock, Rock n' Roll, Nu-metal, Power metal and Heavy metal.
-I'm not gonna write the favourite bands/songs or there will be hundred of list lol.
