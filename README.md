@@ -12,7 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [annerez.github.io](annerez.github.io)
 
-- 📫 How to reach me **aruchakhem@gmail.com**
 
 
 # 💻 Tech Stack
