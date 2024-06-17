@@ -26,7 +26,7 @@ However, it appears to be that I enjoy this way of living, as it gets more fun d
 I just love seeing new things published every day. I still remember how excited I was when I was first introduced to [Transformer](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)). <br> (A deep learning architecture, not those sentient robot cars from outer space.) 
 <br>
 
-And you have might guess it, I love <b> self studying. </b>
+And you might have guess it, I love <b> self studying. </b>
 
 
 # 💻 Tech Stack
