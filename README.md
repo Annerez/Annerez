@@ -22,8 +22,10 @@
 
 
 # 📈 GitHub Stats
+<div align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Annerez&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=Annerez&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br />
+</div> <br />
 
 <div align="center">
 <img style="height: auto; width: 70%;" class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=anner&langs_count=8&layout=compact&hide_border=true&bg_color=141424&title_color=e73f82&text_color=ffffff&icon_color=fdaaaas" />
