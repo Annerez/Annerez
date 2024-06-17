@@ -35,7 +35,11 @@ And you might have guess it, I love <b> self studying. </b>
 
 
 # 📈 GitHub Stats
+
+### 🔥 GitHub Commit Streak 🔥
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Annerez&theme=radical&hide_border=false)
+
+### 📈 Commits Graph 📈
 ![](https://github-readme-stats.vercel.app/api?username=Annerez&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br />
 
 <div align="center">
