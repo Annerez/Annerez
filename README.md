@@ -32,13 +32,13 @@ And you might have guess it, I love <b> self studying. </b>
 ## 🧐 What I do?
 Throughout his years of programming, Anner has developed skills in various fields including:
 
-Front-end Development ( [React](https://react.dev/), [Next](https://nextjs.org/), [Vue (Nuxt)](https://nuxt.com/), [SvelteKit](https://kit.svelte.dev/) )
-Back-end Development ( [Express](https://expressjs.com/), [Node.js](https://nodejs.org), [Prisma](https://www.prisma.io/) )
-Database Management System ( [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/) )
-Cloud ( [Google Cloud](https://cloud.google.com), [AWS](https://aws.amazon.com) )
-DevOps ( [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/) )
-Mobile Application Development ( [React Native](https://reactnative.dev/) )
-Machine Learning ( Tabular Data, Data Science, Quantitative Analysis (?) )
+Front-end Development ( [React](https://react.dev/), [Next](https://nextjs.org/), [Vue (Nuxt)](https://nuxt.com/), [SvelteKit](https://kit.svelte.dev/) ) <br>
+Back-end Development ( [Express](https://expressjs.com/), [Node.js](https://nodejs.org), [Prisma](https://www.prisma.io/) ) <br>
+Database Management System ( [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/) ) <br>
+Cloud ( [Google Cloud](https://cloud.google.com), [AWS](https://aws.amazon.com) ) <br>
+DevOps ( [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/) ) <br>
+Mobile Application Development ( [React Native](https://reactnative.dev/) ) <br>
+Machine Learning ( Tabular Data, Data Science, Quantitative Analysis (?) ) <br>
 
 
 
