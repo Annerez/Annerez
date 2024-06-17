@@ -14,6 +14,9 @@
   <a href="https://www.linkedin.com/in/arucha-khematharonon-6289ba233/">
     <img src="https://img.shields.io/badge/LinkedIn-connect%20with%20me-2a66bc?logo=linkedin"/>
   </a>
+  <a href="https://visitcount.itsvg.in/api?id=Annerez&icon=0&color=0">
+    <img src="https://visitcount.itsvg.in"/>
+  </a>
 </p>
 <p align="left"> <img src="https://wakatime.com/badge/user/5def2b97-aeb5-4e19-a731-8b627c7f59a6.svg" alt="annerez" /> </p>
 
