@@ -59,7 +59,6 @@ Throughout his years of programming, Anner has developed skills in various field
 
 # GitHub Stats
 
-<br>
 
 ### 🔥 GitHub Commit Streak 🔥
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Annerez&theme=radical&hide_border=false)
