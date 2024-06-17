@@ -20,7 +20,7 @@
 
 <br>
 
-A sleepless [developer](https://en.wikipedia.org/wiki/Developer) who is passionate about discovering new things and building some silly projects that make him keep getting less sleep every day.
+A sleepless [developer](https://en.wikipedia.org/wiki/Developer) who is passionate about discovering new things and building some silly projects that make him keep getting less [sleep](https://www.urbandictionary.com/define.php?term=sleep) every day.
 However, it appears to be that I enjoy this way of living, as it gets more fun day after day. Currently obsessed in Machine Learning / Deep Learning especially in [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing). I just love seeing new architecture published every day. I still remember the first time I was introduce to [Transformer](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)). (A deep learning architecture, not those sentient robot cars from outer space.)
 
 
