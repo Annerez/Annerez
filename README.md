@@ -18,14 +18,10 @@
   <img src="https://wakatime.com/badge/user/5def2b97-aeb5-4e19-a731-8b627c7f59a6.svg" alt="annerez" />
 </p>
 
-- Might remake this profile later
+<br>
 
-- An IoT enthusiast, Web Developer, a rookie AI trainer
-
-- Feel Free to contact me via Discord for games, tech, whatever you want
-
-- 👨‍💻 All of my projects are available at [annerez.github.io](annerez.github.io)
-
+A sleepless [developer](https://en.wikipedia.org/wiki/Developer) who is passionate about discovering new things and building some silly projects that make him keep getting less sleep every day.
+However, it appears to be that I enjoy this way of living, as it gets more fun day after day. Currently obsessed in Machine Learning / Deep Learning especially in [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing). I also love seeing new architecture published every day. I still remember the first time I was introduce to [Transformer](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)) (A deep learning architecture, not those sentient robot cars from outer space.)
 
 
 # 💻 Tech Stack
