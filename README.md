@@ -8,15 +8,15 @@
   <a href="http://discordapp.com/users/363299037962567680">
     <img src="https://img.shields.io/badge/Discord-chat%20me-5865f2?logo=discord&logoColor=f5f5f5"/>
   </a>
-  <br/>
   <a href="https://www.linkedin.com/in/arucha-khematharonon-6289ba233/">
     <img src="https://img.shields.io/badge/LinkedIn-connect%20with%20me-2a66bc?logo=linkedin"/>
   </a>
+  <br/>
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Annerez&icon=0&color=0"/>
   </a>
+  <img src="https://wakatime.com/badge/user/5def2b97-aeb5-4e19-a731-8b627c7f59a6.svg" alt="annerez" />
 </p>
-<p align="left"> <img src="https://wakatime.com/badge/user/5def2b97-aeb5-4e19-a731-8b627c7f59a6.svg" alt="annerez" /> </p>
 
 - Might remake this profile later
 
