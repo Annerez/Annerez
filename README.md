@@ -32,6 +32,7 @@ And you might have guess it, I love <b> self studying. </b>
 
 ![Programmer](programmer.png)
 
+<br>
 
 
 ## 🧐 What I do?
