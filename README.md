@@ -33,37 +33,19 @@ And you might have guess it, I love <b> self studying. </b>
 
 Throughout his years of programming, Anner has developed skills in various fields including:
 
-### 🌐 Front-end Development
-- [React](https://react.dev/)
-- [Next.js](https://nextjs.org/)
-- [Vue (Nuxt)](https://nuxt.com/)
-- [SvelteKit](https://kit.svelte.dev/)
+- Front-end Development ( React, Next, Vue (Nuxt), SvelteKit ) <br>
 
-### ⚙️ Back-end Development
-- [Express](https://expressjs.com/)
-- [Node.js](https://nodejs.org)
-- [Prisma](https://www.prisma.io/)
+- Back-end Development ( Express, Node.js, Prisma ) <br>
 
-### 🗄️ Database Management System
-- [MySQL](https://www.mysql.com/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [MongoDB](https://www.mongodb.com/)
+- Database Management System ( MySQL, PostgreSQL, MongoDB ) <br>
 
-### ☁️ Cloud
-- [Google Cloud](https://cloud.google.com)
-- [AWS](https://aws.amazon.com)
+- Cloud ( Google Cloud, AWS ) <br>
 
-### 🛠️ DevOps
-- [Docker](https://www.docker.com/)
-- [Kubernetes](https://kubernetes.io/)
+- DevOps ( Docker, Kubernetes ) <br>
 
-### 📱 Mobile Application Development
-- [React Native](https://reactnative.dev/)
+- Mobile Application Development ( React Native ) <br>
 
-### 🤖 Machine Learning
-- Tabular Data
-- Data Science
-- Quantitative Analysis (?)
+- Machine Learning ( Tabular Data, Data Science, Quantitative Analysis (?) ) <br>
 
 
 
