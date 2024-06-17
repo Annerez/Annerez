@@ -28,9 +28,10 @@ I just love seeing new things published every day. I still remember how excited 
 
 And you might have guess it, I love <b> self studying. </b>
 
+<br>
+
 ![Programmer](programmer.png)
 
-<br>
 
 
 ## 🧐 What I do?
