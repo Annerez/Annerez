@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anner!</h1>
 <h3 align="center">A passionate freshmen Information Technology student @KMITL</h3>
 
-[![](https://visitcount.itsvg.in/api?id=Annerez&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <p align="center">
   <a href="aruchakehm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mail%20me-f14336?logo=gmail"/>
