@@ -37,7 +37,6 @@ And you might have guess it, I love <b> self studying. </b>
 
 ## 🧐 What do I do?
 
-Throughout his years of programming, Anner has developed skills in various fields including:
 
 - 🌐 Front-end Development ( [React](https://react.dev/), [Next](https://nextjs.org/), [Vue (Nuxt)](https://nuxt.com/), [SvelteKit](https://kit.svelte.dev/) ) <br>
 
