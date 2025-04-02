@@ -35,7 +35,7 @@ And you might have guess it, I love <b> self studying. </b>
 <br>
 
 
-## 🧐 What I do?
+## 🧐 What do I do?
 
 Throughout his years of programming, Anner has developed skills in various fields including:
 
